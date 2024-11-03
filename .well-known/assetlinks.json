@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.flaglab",
+    "sha256_cert_fingerprints":
+    ["19:74:6C:B7:10:1D:B4:71:3E:D1:C0:0F:32:30:08:A8:44:CA:C4:AB:A6:17:95:C4:8F:5F:B4:64:DE:EF:11:AD"]
+  }
+}]
