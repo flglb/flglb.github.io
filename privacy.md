@@ -1,6 +1,6 @@
 # **Flaglab – Privacy Policy**
 
-_Last updated: {{enter date}}_
+_Last updated: 22.11.2025_
 
 ## **Introduction**
 Flaglab is an Android application designed for creating and customizing flags. We value your privacy and are committed to being transparent about how data is handled. This policy explains what information the app collects, how it is used, and your rights regarding that information.
